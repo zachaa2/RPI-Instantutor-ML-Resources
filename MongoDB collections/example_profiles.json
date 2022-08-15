@@ -1,0 +1,6002 @@
+{
+ "0":{
+  "Major":"MGMT",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "1":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "2":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "3":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "4":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "5":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "6":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "7":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "8":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "9":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "10":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "11":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "12":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "13":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "14":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "15":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "16":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "17":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "18":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "19":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "20":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "21":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "22":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "23":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "24":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "25":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "26":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "27":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "28":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "29":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "30":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "31":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "32":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "33":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "34":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "35":{
+  "Major":"Info Technology",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "36":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "37":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "38":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "39":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "40":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "41":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "42":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "43":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "44":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "45":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "46":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "47":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "48":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "49":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "50":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "51":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "52":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "53":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "54":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "55":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "56":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "57":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "58":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "59":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "60":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "61":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "62":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "63":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "64":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "65":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "66":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "67":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "68":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "69":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "70":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "71":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "72":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "73":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "74":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "75":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "76":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "77":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "78":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "79":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "80":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "81":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "82":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "83":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "84":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "85":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "86":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "87":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "88":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "89":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "90":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "91":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "92":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "93":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "94":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "95":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "96":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "97":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "98":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "99":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "100":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "101":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "102":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "103":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "104":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "105":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "106":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "107":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "108":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "109":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "110":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "111":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "112":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "113":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "114":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "115":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "116":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "117":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "118":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "119":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "120":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "121":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "122":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "123":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "124":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "125":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "126":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "127":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "128":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "129":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "130":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "131":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "132":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "133":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "134":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "135":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "136":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "137":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "138":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "139":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "140":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "141":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "142":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "143":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "144":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "145":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "146":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "147":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "148":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "149":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "150":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "151":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "152":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "153":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "154":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "155":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "156":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "157":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "158":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "159":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "160":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "161":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "162":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "163":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "164":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "165":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "166":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "167":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "168":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "169":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "170":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "171":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "172":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "173":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "174":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "175":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "176":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "177":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "178":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "179":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "180":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "181":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "182":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "183":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "184":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "185":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "186":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "187":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "188":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "189":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "190":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "191":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "192":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "193":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "194":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "195":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "196":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "197":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "198":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "199":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "200":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "201":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "202":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "203":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "204":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "205":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "206":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "207":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "208":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "209":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "210":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "211":{
+  "Major":"Architecture",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "212":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "213":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "214":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "215":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "216":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "217":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "218":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "219":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "220":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "221":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "222":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "223":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "224":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "225":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "226":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "227":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "228":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "229":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "230":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "231":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "232":{
+  "Major":"Architecture",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "233":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "234":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "235":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "236":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "237":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "238":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "239":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "240":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "241":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "242":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "243":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "244":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "245":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "246":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "247":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "248":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "249":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "250":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "251":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "252":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "253":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "254":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "255":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "256":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "257":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "258":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "259":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "260":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "261":{
+  "Major":"MGMT",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "262":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "263":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "264":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "265":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "266":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "267":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "268":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "269":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "270":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "271":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "272":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "273":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "274":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "275":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "276":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "277":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "278":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "279":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "280":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "281":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "282":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "283":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "284":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "285":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "286":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "287":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "288":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "289":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "290":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "291":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "292":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "293":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "294":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "295":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "296":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "297":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "298":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "299":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "300":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "301":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "302":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "303":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "304":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "305":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "306":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "307":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "308":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "309":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "310":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "311":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "312":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "313":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "314":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "315":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "316":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "317":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "318":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "319":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "320":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "321":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "322":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "323":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "324":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "325":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "326":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "327":{
+  "Major":"Info Technology",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "328":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "329":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "330":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "331":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "332":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "333":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "334":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "335":{
+  "Major":"Info Technology",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "336":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "337":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "338":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "339":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "340":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "341":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "342":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "343":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "344":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "345":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "346":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "347":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "348":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "349":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "350":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "351":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "352":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "353":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "354":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "355":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "356":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "357":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "358":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "359":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "360":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "361":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "362":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "363":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "364":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "365":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "366":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "367":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "368":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "369":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "370":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "371":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "372":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "373":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "374":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "375":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "376":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "377":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "378":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "379":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "380":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "381":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "382":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "383":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "384":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "385":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "386":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "387":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "388":{
+  "Major":"MGMT",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "389":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "390":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "391":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "392":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "393":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "394":{
+  "Major":"MGMT",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "395":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "396":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "397":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "398":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "399":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "400":{
+  "Major":"Architecture",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "401":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "402":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "403":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "404":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "405":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "406":{
+  "Major":"MGMT",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "407":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "408":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "409":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "410":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "411":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "412":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "413":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "414":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "415":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "416":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "417":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "418":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "419":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "420":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "421":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "422":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "423":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "424":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "425":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "426":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "427":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "428":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "429":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "430":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "431":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "432":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "433":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "434":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "435":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "436":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "437":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "438":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "439":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "440":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "441":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "442":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "443":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "444":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "445":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "446":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "447":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "448":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "449":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "450":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "451":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "452":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "453":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "454":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "455":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "456":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "457":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "458":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "459":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "460":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "461":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "462":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "463":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "464":{
+  "Major":"Architecture",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "465":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "466":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "467":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "468":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "469":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "470":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "471":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "472":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "473":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "474":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "475":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "476":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "477":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "478":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "479":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "480":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "481":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "482":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "483":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "484":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "485":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "486":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "487":{
+  "Major":"MGMT",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "488":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "489":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "490":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "491":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "492":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "493":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "494":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "495":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "496":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "497":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "498":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "499":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "500":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "501":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "502":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "503":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "504":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "505":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "506":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "507":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "508":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "509":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "510":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "511":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "512":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "513":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "514":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "515":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "516":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "517":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "518":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "519":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "520":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "521":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "522":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "523":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "524":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "525":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "526":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "527":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "528":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "529":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "530":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "531":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "532":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "533":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "534":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "535":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "536":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "537":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "538":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "539":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "540":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "541":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "542":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "543":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "544":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "545":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "546":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "547":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "548":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "549":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "550":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "551":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "552":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "553":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "554":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "555":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "556":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "557":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "558":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "559":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "560":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "561":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "562":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "563":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "564":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "565":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "566":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "567":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "568":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "569":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "570":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "571":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "572":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "573":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "574":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "575":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "576":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "577":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "578":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "579":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "580":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "581":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "582":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "583":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "584":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "585":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "586":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "587":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "588":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "589":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "590":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "591":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "592":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "593":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "594":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "595":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "596":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "597":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "598":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "599":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "600":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "601":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "602":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "603":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "604":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "605":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "606":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "607":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "608":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "609":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "610":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "611":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "612":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "613":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "614":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "615":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "616":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "617":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "618":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "619":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "620":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "621":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "622":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "623":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "624":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "625":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "626":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "627":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "628":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "629":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "630":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "631":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "632":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "633":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "634":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "635":{
+  "Major":"Architecture",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "636":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "637":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "638":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "639":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "640":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "641":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "642":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "643":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "644":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "645":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "646":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "647":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "648":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "649":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "650":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "651":{
+  "Major":"MGMT",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "652":{
+  "Major":"Info Technology",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "653":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "654":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "655":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "656":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "657":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "658":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "659":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "660":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "661":{
+  "Major":"Architecture",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "662":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "663":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "664":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "665":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "666":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "667":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "668":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "669":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "670":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "671":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "672":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "673":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "674":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "675":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "676":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "677":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "678":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "679":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "680":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "681":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "682":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "683":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "684":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "685":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "686":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "687":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "688":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "689":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "690":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "691":{
+  "Major":"HASS",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "692":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "693":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "694":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "695":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "696":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "697":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "698":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "699":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "700":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "701":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "702":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "703":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "704":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "705":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "706":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "707":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "708":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "709":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "710":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "711":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "712":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "713":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "714":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "715":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "716":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "717":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "718":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "719":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "720":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "721":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "722":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "723":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "724":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "725":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "726":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "727":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "728":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "729":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "730":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "731":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "732":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "733":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "734":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "735":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "736":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "737":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "738":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "739":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "740":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "741":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "742":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "743":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "744":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "745":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "746":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "747":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "748":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "749":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "750":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "751":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "752":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "753":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "754":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "755":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "756":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "757":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "758":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "759":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "760":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "761":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "762":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "763":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "764":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "765":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "766":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "767":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "768":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "769":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "770":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "771":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "772":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "773":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "774":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "775":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "776":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "777":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "778":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "779":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "780":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "781":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "782":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "783":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "784":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "785":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "786":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "787":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "788":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "789":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "790":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "791":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "792":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "793":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "794":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "795":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "796":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "797":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "798":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "799":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "800":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "801":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "802":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "803":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "804":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "805":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "806":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "807":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "808":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "809":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "810":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "811":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "812":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "813":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "814":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "815":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "816":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "817":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "818":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "819":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "820":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "821":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "822":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "823":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "824":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "825":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "826":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "827":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "828":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "829":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "830":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "831":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "832":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "833":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "834":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "835":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "836":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "837":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "838":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "839":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "840":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "841":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "842":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "843":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "844":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "845":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "846":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "847":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "848":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "849":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "850":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "851":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "852":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "853":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "854":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "855":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "856":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "857":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "858":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "859":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "860":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "861":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "862":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "863":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "864":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "865":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "866":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "867":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "868":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "869":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "870":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "871":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "872":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "873":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "874":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "875":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "876":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "877":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "878":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "879":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "880":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "881":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "882":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "883":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "884":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "885":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "886":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "887":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "888":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "889":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "890":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "891":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "892":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "893":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "894":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "895":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "896":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "897":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "898":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "899":{
+  "Major":"HASS",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "900":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "901":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "902":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "903":{
+  "Major":"Science",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "904":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "905":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "906":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "907":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "908":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "909":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "910":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "911":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "912":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "913":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "914":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "915":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "916":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "917":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "918":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "919":{
+  "Major":"Architecture",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "920":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "921":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "922":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "923":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "924":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "925":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "926":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "927":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "928":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "929":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "930":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "931":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "932":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "933":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "934":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "935":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "936":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "937":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "938":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "939":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "940":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "941":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "942":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "943":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "944":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "945":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "946":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "947":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "948":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "949":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "950":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "951":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "952":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "953":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "954":{
+  "Major":"MGMT",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "955":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "956":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "957":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "958":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "959":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "960":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "961":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "962":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "963":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "964":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "965":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "966":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "967":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "968":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "969":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "970":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "971":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "972":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "973":{
+  "Major":"HASS",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "974":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "975":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "976":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "977":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "978":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "979":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "980":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "981":{
+  "Major":"Info Technology",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "982":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "983":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "984":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "985":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "986":{
+  "Major":"Engineering",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "987":{
+  "Major":"MGMT",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "988":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "989":{
+  "Major":"Architecture",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "990":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "991":{
+  "Major":"Info Technology",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "992":{
+  "Major":"Science",
+  "Role":"Tutor",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "993":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "994":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Graduate",
+  "Bio":"Generic Bio"
+ },
+ "995":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "996":{
+  "Major":"Engineering",
+  "Role":"Student",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "997":{
+  "Major":"MGMT",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "998":{
+  "Major":"Science",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ },
+ "999":{
+  "Major":"Engineering",
+  "Role":"Both",
+  "Degree":"Undergraduate",
+  "Bio":"Generic Bio"
+ }
+}
